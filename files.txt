@@ -21,6 +21,9 @@ textures/block/jungle_planks.png
 textures/block/acacia_planks.png
 textures/block/dark_oak_planks.png
 textures/block/bedrock.png
+textures/block/oak_log.png
+textures/block/oak_log_top.png
+textures/block/oak_sapling.png
 
 textures/entity/player/wide/steve.png
 
